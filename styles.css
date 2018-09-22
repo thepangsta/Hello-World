@@ -1,0 +1,18 @@
+div {
+    color: green;
+}
+
+p {
+    font-size: 18px;
+}
+.blue .big {
+    color: blue;
+}
+
+.big {
+    font-size: 3em;
+}
+
+#maincontent {
+    color: blue;
+}
